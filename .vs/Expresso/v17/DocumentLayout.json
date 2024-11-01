@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\view\\registroproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:view\\registroproductopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|c:\\users\\pablo gonzalez\\source\\repos\\expresso\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424A110C-2BE6-4794-AE99-414A5890FC4F}|Expresso.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\ViewModel\\RegistroProductoViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewModel\\RegistroProductoViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:01:02.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\view\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "view\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\view\\MainPage.xaml.cs",
+              "RelativeToolTip": "view\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:43:54.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\view\\MainPage.xaml",
+              "RelativeDocumentMoniker": "view\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\view\\MainPage.xaml",
+              "RelativeToolTip": "view\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T09:39:35.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T09:38:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T11:42:29.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\Services\\ApiService.cs",
+              "RelativeToolTip": "Services\\ApiService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:42:27.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T11:41:05.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroProductoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\view\\RegistroProductoPage.xaml",
+              "RelativeDocumentMoniker": "view\\RegistroProductoPage.xaml",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\view\\RegistroProductoPage.xaml",
+              "RelativeToolTip": "view\\RegistroProductoPage.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T10:48:45.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:43:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistroProductoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\ViewModel\\RegistroProductoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\RegistroProductoViewModel.cs",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\ViewModel\\RegistroProductoViewModel.cs",
+              "RelativeToolTip": "ViewModel\\RegistroProductoViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:30:15.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Pablo Gonzalez\\source\\repos\\Expresso\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:47:36.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

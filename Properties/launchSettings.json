@@ -1,0 +1,24 @@
+{
+
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "MongoClient": "mongodb+srv://pg4544588:<VSQ0RZxFriuqN2sW>@cluster0.qx1fa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    //"DataBase": "Tienda",
+    //"Collection": "Productos"
+    //"mongodb+srv://pg4544588:<VSQ0RZxFriuqN2sW>@cluster0.qx1fa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    //mongodb+srv://pg4544588:<VSQ0RZxFriuqN2sW>@cluster0.qx1fa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+  }
+}
+
+
+//ZNiCc6dhegfdLzNa
+
+ // pg4544588
+  //mongodb+srv://pg4544588:<VSQ0RZxFriuqN2sW>@cluster0.qx1fa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+//n3GDY2l8YBllGfec

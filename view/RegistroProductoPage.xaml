@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Expresso.view.RegistroProductoPage"
+             Title="RegistroProductoPage">
+
+    <StackLayout Padding="20">
+        <Entry Placeholder="Nombre" Text="{Binding Producto.Nombre}"/>
+        <Entry Placeholder="Descipsion" Text="{Binding Producto.Descripsion}"/>
+        <Entry Placeholder="Talla" Text="{Binding Producto.Talla}"/>
+        <Entry Placeholder="Color" Text="{Binding Producto.Color}"/>
+        <Entry Placeholder="Precio" Keyboard="Numeric" Text="{Binding Producto.Precio}"/>
+        <Entry Placeholder="Categoria" Text="{Binding Producto.Categoria}"/>
+        <Entry Placeholder="Stock" Keyboard="Numeric" Text="{Binding Producto.Stock}"/>
+
+        <Button Text="Agregar producto" Command="{Binding RegistrarProductoCommand}"/>
+        <Button Text="Eliminar producto" Command="{Binding EliminarProductoCommand}"  CommandParameter="{Binding Producto.Id}"/>
+        <Button Text="Editar producto" Command="{Binding EditarProductoCommand}"/>
+        <Button Text="Obtener producto" Command="{Binding ObtenerProductoCommand}" CommandParameter="{Binding Producto.Id}"/>
+
+    </StackLayout>
+</ContentPage>
